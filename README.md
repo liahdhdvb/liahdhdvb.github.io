@@ -18,11 +18,8 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+<h1>Welcome to Our Website</h1>
+<p>LifeLabs Group 7 BO4-09-S1-1</p>
 
 
 ##  a. ***Chosen category***
