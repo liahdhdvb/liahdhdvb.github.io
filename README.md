@@ -25,6 +25,7 @@ p {
 ##  A. ***Chosen category***
 ## *Vlogging content*
   
+  ### we
   
 ## B. ***Target audience***
  People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers.
