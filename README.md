@@ -25,7 +25,6 @@ p {
 ##  a. ***Chosen category***
 ## *Vlogging content*
   
- <img src="11,079 Vlogging Illustrations & Clip Art - iStock.jpg">
   
 ## b. ***Target audience***
  People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers.
