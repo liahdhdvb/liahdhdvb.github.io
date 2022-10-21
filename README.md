@@ -25,8 +25,8 @@ p {
 ##  a. ***Chosen category***
 ## *Vlogging content*
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fvlogging&psig=AOvVaw1ziFWk2A2GpB4-cGVxsMsH&ust=1666417991999000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC2rv_Q8PoCFQAAAAAdAAAAABAY" alt="Flowers in Chania" width="460" height="345">
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fvlogging&psig=AOvVaw1ziFWk2A2GpB4-cGVxsMsH&ust=1666417991999000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC2rv_Q8PoCFQAAAAAdAAAAABAY" alt="
+11,079 Vlogging Illustrations & Clip Art - iStock" 
   
   
   
