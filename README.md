@@ -28,7 +28,7 @@ p {
   
 ## b. ***Target audience***
  People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers.
-Some viewers are targeted to people who desire to travel since people don’t know what a country is like and some vlogs show the culture and tour the country
+Some viewers are targeted to people who desire to travel since people don’t know what a country is like and some vlogs show the culture and tour the country.
  
 A survey conducted during the fourth quarter of 2021 found that more than 38 percent of female internet users aged between 16 and 24 years watched vlogs. Overall, women were more likely to watch vlogs worldwide than men.
 
