@@ -25,6 +25,13 @@ p {
 ##  a. ***Chosen category***
 ## *Vlogging content*
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fvlogging&psig=AOvVaw1ziFWk2A2GpB4-cGVxsMsH&ust=1666417991999000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC2rv_Q8PoCFQAAAAAdAAAAABAY" alt="Flowers in Chania" width="460" height="345">
+
+  
+  
+  
+  
+  
 ## b. ***Target audience***
  People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers.
 Some viewers are targeted to people who desire to travel since people don’t know what a country is like and some vlogs show the culture and tour the country
